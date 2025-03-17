@@ -1,5 +1,5 @@
 {
-  "versao": "1.1",
+  "versao": "1.2",
   "url_atualizacao": "https://drive.google.com/uc?id=1i9baycaT1w8yLpV7RwM7no2yuGpXGB3z&export=download",
-  "notas": "Correções de bugs e melhorias no desempenho."
+  "notas": "Mensagens de erro ocultadas; registro de erros em erros.log."
 }
