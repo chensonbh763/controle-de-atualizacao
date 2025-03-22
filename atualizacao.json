@@ -1,5 +1,5 @@
 {
-  "versao": "1.4",
-  "url_atualizacao": "https://drive.google.com/uc?id=1dHmZFCw9HvutlifNtZguHs51k149fSr2&export=download",
-  "notas": "Melhoria na integração do PacketSDK e otimizações gerais. Certifique-se de baixar e manter o PacketSDK na mesma pasta do executável principal."
+  "versao": "1.5",
+  "url_atualizacao": "https://drive.google.com/uc?id=15a0QbGnJcICz1O5G7Hhpa6lqtvS_Lehi&export=download",
+  "notas": "Correções de bugs e melhorias de desempenho. Certifique-se de manter os arquivos necessários na mesma pasta que o executável principal."
 }
