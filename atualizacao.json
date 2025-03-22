@@ -1,5 +1,5 @@
 {
-  "versao": "1.2",
-  "url_atualizacao": "https://drive.google.com/uc?id=1i9baycaT1w8yLpV7RwM7no2yuGpXGB3z&export=download",
-  "notas": "Mensagens de erro ocultadas; registro de erros em erros.log."
+    "versao": "1.3",
+    "url_atualizacao": "https://drive.google.com/uc?id=1O-CFAz3TLSbnXmhzZQRz6y4khcsvWyfa&export=download",
+    "notas": "Adicionada integração com o PacketSDK; melhorias na interface gráfica e correções de bugs."
 }
